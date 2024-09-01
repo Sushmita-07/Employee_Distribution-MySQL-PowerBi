@@ -1,4 +1,4 @@
-# HR-Dashboard-MySQL-PowerBI
+# Employee_Distribution-MySQL-PowerBI
 
 ## Data Used
 
